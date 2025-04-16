@@ -1,1 +1,3 @@
-# gemini_exp
+# Gemini_exp
+
+Gemini Experiments
